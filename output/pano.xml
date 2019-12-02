@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.1" apprev="17856">
+  <panorama id="node1">
+    <input tilesize="1024" tilescale="1.009766" levelingroll="0" tile1url="images/Node-14-Pano_o_1.jpg" tile0url="images/Node-14-Pano_o_0.jpg" tile3url="images/Node-14-Pano_o_3.jpg" tile5url="images/Node-14-Pano_o_5.jpg" levelingpitch="0" tile2url="images/Node-14-Pano_o_2.jpg" tilevrurl="images/Node-14-Pano_ovr.jpg" tile4url="images/Node-14-Pano_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-9.59625" fov="80.6145" pan="-168.377"/>
+      <flyin projection="4" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata tags="mysourceimages" author="" source="" info="" datetime="" description="" title="Master Bedroom" copyright="" longitude="" customnodeid="" comment="" latitude="" nodeid="node1"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" height="20" wordwrap="1" width="180" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot target="-86.7/-5.5/85.4" tilt="-25.03" description="" title="More Master Bedroom" id="Point01" skinid="ht_node" pan="-95.09" url="{node2}"/>
+      <hotspot target="179.3/-8.9/70.4" tilt="-6.84" description="" title="Master Bathroom" id="Point02" skinid="ht_node" pan="-265.76" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" nodefilter="" enabled="1" speed="0.050" startloaded="0" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" invertwheel="0" simulatemass="1" lockedwheel="0" sensitivity="8" contextfullscreen="1" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input tilesize="1024" tilescale="1.009766" levelingroll="0" tile1url="images/Node-15-Pano_o_1.jpg" tile0url="images/Node-15-Pano_o_0.jpg" tile3url="images/Node-15-Pano_o_3.jpg" tile5url="images/Node-15-Pano_o_5.jpg" levelingpitch="0" tile2url="images/Node-15-Pano_o_2.jpg" tilevrurl="images/Node-15-Pano_ovr.jpg" tile4url="images/Node-15-Pano_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata tags="mysourceimages" author="" source="" info="" datetime="" description="" title="More Master Bedroom" copyright="" longitude="" customnodeid="" comment="" latitude="" nodeid="node2"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" height="20" wordwrap="1" width="180" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot target="96.1/-5.9/90.0" tilt="-23.21" description="" title="Master Bedroom" id="Point01" skinid="ht_node" pan="-278.23" url="{node1}"/>
+      <hotspot target="164.3/-5.7/85.7" tilt="-4.32" description="" title="Master Bathroom" id="Point02" skinid="ht_node" pan="-276.52" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" nodefilter="" enabled="1" speed="0.050" startloaded="0" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" invertwheel="0" simulatemass="1" lockedwheel="0" sensitivity="8" contextfullscreen="1" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input tilesize="1024" tilescale="1.009766" levelingroll="0" tile1url="images/Node-16-Pano copy_o_1.jpg" tile0url="images/Node-16-Pano copy_o_0.jpg" tile3url="images/Node-16-Pano copy_o_3.jpg" tile5url="images/Node-16-Pano copy_o_5.jpg" levelingpitch="0" tile2url="images/Node-16-Pano copy_o_2.jpg" tilevrurl="images/Node-16-Pano copy_ovr.jpg" tile4url="images/Node-16-Pano copy_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max scaletofit="1" tilt="90" fovstereographic="270" fovfisheye="360" fov="90" pan="360"/>
+    </view>
+    <userdata tags="mysourceimages" author="" source="" info="" datetime="10/29/19 9:59 PM" description="" title="Master Bathroom" copyright="" longitude="" customnodeid="" comment="" latitude="" nodeid="node3"/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderradius="1" height="20" wordwrap="1" width="180" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" enabled="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot target="-86.8/-9.5/84.6" tilt="-28.64" description="" title="Master Bedroom" id="Point01" skinid="ht_node" pan="-0.22" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomoutpause="1" softedge="0" enabled="1" zoomspeed="2" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20"/>
+    <autorotate nodedelay="0.00" noderandom="1" useanimation="0" nodefilter="" enabled="1" speed="0.050" startloaded="0" delay="5.00" returntohorizon="0.000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" lockedmouse="0" invertwheel="0" simulatemass="1" lockedwheel="0" sensitivity="8" contextfullscreen="1" contextprojections="0" invertcontrol="1" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="" source="" info="" datetime="" description="" title="" copyright="" longitude="" customnodeid="" comment="" latitude="" nodeid="master"/>
+  </masternode>
+</tour>
